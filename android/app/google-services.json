@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456514346072",
+    "project_id": "gallery-fc40f",
+    "storage_bucket": "gallery-fc40f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456514346072:android:307ba3ddb53c9841e3be2d",
+        "android_client_info": {
+          "package_name": "com.example.gallery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456514346072-kefknpurolj0jtmjbeek4434eap71gef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBshyAL6uqgloHR6MzZ4zAWlh0xUZ8ULhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456514346072-kefknpurolj0jtmjbeek4434eap71gef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
